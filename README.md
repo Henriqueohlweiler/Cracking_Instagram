@@ -1,13 +1,21 @@
-# Nama Proyek 🚀  
-Deskripsi singkat tentang proyek ini.
+# Cracking Instagram 🚀
+Melakukan Brute Force, Menebak Password Akun Instagram
 
 ## 📌 Fitur  
-- ✅ Fitur 1  
-- ✅ Fitur 2  
-- ✅ Fitur 3  
+- ✅ Dump Followers + Following
+- ✅ 3 Macam Method Login
+- ✅ Penambahan Password & Proxy 
 
 ## 🛠 Instalasi  
 ```bash  
-git clone https://github.com/user/proyek.git  
-cd proyek  
-pip install -r requirements.txt  
+apt update && apt upgrade
+pkg install python
+pkg install git
+pip install requests
+pip install unidecode
+pip install pycryptodome
+pip install rich
+git clone https://github.com/Mark-Zuck/Cracking_Instagram.git
+cd Cracking_Instagram
+git pull
+python main.py
