@@ -19,3 +19,6 @@ git clone https://github.com/Mark-Zuck/Cracking_Instagram.git
 cd Cracking_Instagram
 git pull
 python main.py
+
+**⚠ WARNING: Gunakan tools ini dengan bijak!**
+
