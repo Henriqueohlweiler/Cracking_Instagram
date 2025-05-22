@@ -22,3 +22,4 @@ python main.py
 
 **⚠ WARNING: Gunakan tools ini dengan bijak!**
 
+Whetr i found cookies
